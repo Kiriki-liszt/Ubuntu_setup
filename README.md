@@ -12,3 +12,17 @@ https://besolve.net/ko/wwdc-2020-ubuntu-20-04%EB%A5%BC-macos-11-big-sur%EC%B2%98
 
 
 https://www.joelotz.com/blog/2021/creating-a-launch-shortcut-for-anaconda-on-ubuntu.html
+
+
+
+
+
+Sudo apt install
+gnome-shell-extension-prefs
+gnome-tweaks
+gnome-shell-extensions
+
+
+sudo apt install flatpak
+sudo apt install gnome-software-plugin-flatpak
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
