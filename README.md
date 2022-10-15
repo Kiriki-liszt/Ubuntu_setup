@@ -17,12 +17,12 @@ https://www.joelotz.com/blog/2021/creating-a-launch-shortcut-for-anaconda-on-ubu
 
 
 
-Sudo apt install
-gnome-shell-extension-prefs
-gnome-tweaks
-gnome-shell-extensions
+Sudo apt install  
+gnome-shell-extension-prefs  
+gnome-tweaks  
+gnome-shell-extensions  
 
 
-sudo apt install flatpak
-sudo apt install gnome-software-plugin-flatpak
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+sudo apt install flatpak  
+sudo apt install gnome-software-plugin-flatpak  
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo  
