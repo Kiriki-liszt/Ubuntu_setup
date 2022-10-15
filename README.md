@@ -1,6 +1,7 @@
 # Ubuntu_setup  
 
 https://xangmin.tistory.com/16  
+https://shanepark.tistory.com/251  
 https://ubuntuhandbook.org/index.php/2021/05/gnome-tweaks-40-no-longer-manage-extensions/  
 
 https://github.com/vinceliuice/WhiteSur-gtk-theme  
